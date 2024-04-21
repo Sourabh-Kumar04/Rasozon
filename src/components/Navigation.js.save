@@ -1,0 +1,29 @@
+import React from 'react';
+import { ethers } from 'ethers';
+
+const Navigation = ({ account, setAccount }) => {
+
+    return (
+        <nav>
+
+		<div className='nav__brand'>
+			<h1>Rasozon</h1>
+		</div>
+
+		<input 
+			type="text"
+			className="nav__search"
+		/>
+
+		<button
+			type="butoon"
+			className='nav__connect'
+		>
+			{account}
+		</button
+
+        </nav>
+    );
+}
+
+export default Navigation;

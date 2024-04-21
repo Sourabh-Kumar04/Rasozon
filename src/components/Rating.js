@@ -1,3 +1,4 @@
+import React from 'react';
 import star_regular from '../assets/star-regular.svg';
 import star_solid from '../assets/star-solid.svg';
 

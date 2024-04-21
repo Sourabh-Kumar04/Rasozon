@@ -1,0 +1,25 @@
+const { expect } = require("chai")
+
+const tokens = (n) => {
+  return ethers.utils.parseUnits(n.toString(), 'ether')
+}
+
+describe("Rasozon", () => {
+	let rasozon 
+
+	beforeEach(async ()= {
+
+		// Deploy contract
+		const Rasozon - await ethers.getContractFactory("Rasozon")
+		rasozon = await Rasozon.deploy()
+	})
+
+
+	describe("Deployment", () => {
+
+	it('has a name', async () => {
+		const name = await rasozon.name()
+		expect(await rasozon.name()).to.be.equal("Rasozon")
+	})
+	}
+})
