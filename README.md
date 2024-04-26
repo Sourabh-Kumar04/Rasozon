@@ -30,6 +30,7 @@ In a separate terminal execute:
 - for live network (Sepolia)
 `$ npx hardhat run ./scripts/deploy.js --network sepolia`
 
+
 ### 6. Start frontend
 `$ npm run start`
 
