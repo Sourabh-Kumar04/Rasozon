@@ -24,8 +24,11 @@
 `$ npx hardhat node`
 
 ### 5. Run deployment script
-In a separate terminal execute:
+In a separate terminal execute: 
+- for localhost
 `$ npx hardhat run ./scripts/deploy.js --network localhost`
+- for live network (Sepolia)
+`$ npx hardhat run ./scripts/deploy.js --network sepolia`
 
 ### 6. Start frontend
 `$ npm run start`
