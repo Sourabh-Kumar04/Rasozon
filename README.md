@@ -42,7 +42,7 @@ In a separate terminal execute:
 
 
 ### Test
-[Rasozon.js](https://github.com/Sourabh-Kumar04/Rasozon/blob/master/contracts/test/Rasozon.js)
+[Rasozon.js](https://github.com/Sourabh-Kumar04/Rasozon/blob/master/test/Rasozon.js)
 
 ### Deploy
 [deploy.js](https://github.com/Sourabh-Kumar04/Rasozon/blob/master/contracts/test/deploy.js)
