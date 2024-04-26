@@ -41,4 +41,9 @@ In a separate terminal execute:
 [Rasozon.sol](https://github.com/Sourabh-Kumar04/Rasozon/blob/master/contracts/Rasozon.sol)
 
 
+### Test
+[Rasozon.js](https://github.com/Sourabh-Kumar04/Rasozon/blob/master/contracts/test/Rasozon.js)
+
+### Deploy
+[deploy.js](https://github.com/Sourabh-Kumar04/Rasozon/blob/master/contracts/test/deploy.js)
 
