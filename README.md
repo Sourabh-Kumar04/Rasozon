@@ -28,4 +28,11 @@ In a separate terminal execute:
 `$ npx hardhat run ./scripts/deploy.js --network localhost`
 
 ### 6. Start frontend
-`$ npm run start`# Rasozon
+`$ npm run start`
+
+## Draw.io
+![image](https://github.com/Sourabh-Kumar04/Rasozon/assets/155216316/95411e24-9b40-4b7f-8473-1c2142eca601)
+
+## 
+
+
