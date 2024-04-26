@@ -38,7 +38,7 @@ In a separate terminal execute:
 
 ## Code
 ### Solidity Code
-[Rasozon.sol](https://github.com/Sourabh-Kumar04/Rasozon/contracts/Rasozon.sol)
+[Rasozon.sol](https://github.com/Sourabh-Kumar04/Rasozon/blob/master/contracts/Rasozon.sol)
 
 
 
