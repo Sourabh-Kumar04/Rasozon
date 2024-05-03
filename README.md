@@ -72,6 +72,7 @@ npm install --save-dev hardhat
 npx hardhat init
 ~~~
 Create an empty hardhat.config.js
+
 ![image](https://github.com/Sourabh-Kumar04/Rasozon/assets/155216316/40ab6525-36e5-47ac-8806-f542a8aff8fa)
 
 ~~~
