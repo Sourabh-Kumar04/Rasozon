@@ -468,8 +468,11 @@ npx hardhat scripts deploy ./scripts/deploy.js --network sepolia
 
 
 
-## Setting Up
+## Getting Started
+To get started with this repository, follow these steps:
+
 ### 1. Clone/Download the Repository
+`$ git clone https://github.com/Sourabh-Kumar04/Rasozon.git`
 
 ### 2. Install Dependencies:
 `$ npm install`
