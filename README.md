@@ -483,7 +483,17 @@ To get started with this repository, follow these steps:
 ### 4. Start Hardhat node
 `$ npx hardhat node`
 
-### 5. Run deployment script
+### 5. Set API and Accounts using Hardhat
+Using Hardhat’s built-in configuration variable set the INFURA_API_KEY configuration variable interactively from the terminal using the npx hardhat vars set:
+`npx hardhat vars set INFURA_API_KEY`
+Enter the API Key
+
+Using Hardhat’s built-in configuration variable set the PRIVATE_KEY configuration variable interactively from the terminal using the npx hardhat vars set:
+`npx hardhat vars set PRIVATE_KEY`
+Enter the private key
+
+
+### 6. Run deployment script
 In a separate terminal execute: 
 - for localhost
 `$ npx hardhat run ./scripts/deploy.js --network localhost`
@@ -491,8 +501,15 @@ In a separate terminal execute:
 `$ npx hardhat run ./scripts/deploy.js --network sepolia`
 
 
-### 6. Start frontend
+### 7. Start frontend
 `$ npm run start`
+
+OR
+
+`$ npm rub buid`
+`$ npm install -g serve`
+`$ serve -s build`
+
 
 ## Draw.io
 ![image](https://github.com/Sourabh-Kumar04/Rasozon/assets/155216316/95411e24-9b40-4b7f-8473-1c2142eca601)
